@@ -1,0 +1,7 @@
+{
+  "dropdown": ".product_sort_container",
+  "itemNames": ".inventory_item_name",
+  "itemPrices": ".inventory_item_price",
+  "addToCartButton": "xpath=../..//button[contains(text(), 'Add to cart')]",
+  "minicart": ".shopping_cart_link"
+}

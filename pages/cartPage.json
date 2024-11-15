@@ -1,0 +1,4 @@
+{
+    "cartItems": ".inventory_item_name",
+    "checkoutButton": "#checkout"
+}

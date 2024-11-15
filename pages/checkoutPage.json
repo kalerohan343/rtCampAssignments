@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "firstName": "#first-name",
+        "lastName": "#last-name",
+        "postalCode": "#postal-code"
+    },
+    "buttons": {
+        "continue": "#continue",
+        "finish": "#finish"
+    },
+    "confirmationMessage": ".complete-header"
+}
